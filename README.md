@@ -29,6 +29,7 @@ El proyecto esta orientado a una pasteleria en la cual necesita agregar producto
 - `DELETE /api/ordenes/:id`: Eliminar una orden.
 
 
+
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está proyecto esta creado por [Lisandro Córdoba](https://github.com/Lisandrocba) para más detalles.
